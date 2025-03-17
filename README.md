@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dr-Pooja-Dhiman
-- 👀 I’m interested in AI
-- 🌱 I’m currently upgrading my learning in DATA SCIENCE
+- 👀 I’m interested in AI and Data Analytics
+- 🌱 I’m passionate DATA SCIENTIST
 - 💞️ I’m looking to collaborate on Data research
-- 📫 How to reach me poojadhiman2593@gmail.com
+- 📫 Reach me at poojadhiman2593@gmail.com
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: Music
 
