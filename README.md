@@ -7,7 +7,9 @@
 - ⚡ Fun fact: Music
 
 - 🌱 Data Analyst and Data Scientist with a passion for turning data into actionable insights
+- 
 💬 Ask me about SQL,SSIS,SSRS,POWER BI,Python,Numpy,Pandas,Matplotlib,Statistics,API,Machine Learning,NLP,Deep Leaning,AWS
+
 
 📫 How to reach me drpoojadhiman25@gmail.com
 
